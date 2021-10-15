@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krasi-sabyata
-- 👀 I’m interested in data viz, React, Java
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in data viz, math and web accessibility
+- 🌱 I’m currently learning C++ and Julia
 - 📫 discord: @krasi_sabyata#1193
 
 <!---
