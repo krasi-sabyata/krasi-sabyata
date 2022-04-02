@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krasi-sabyata
 - 👀 I’m interested in data viz, functional programming, math and web accessibility
-- 🌱 I’m currently learning Julia and Elixir
+- 🌱 I’m currently learning Julia and Ruby on Rails
 - 📫 discord: @krasi_sabyata#1193
 
 <!---
