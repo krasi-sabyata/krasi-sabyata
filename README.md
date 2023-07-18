@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krasi-sabyata
-- 👀 I’m interested in web accessibility, data viz, functional programming, and math
+- 👀 I’m interested in web accessibility, data viz and functional programming
 - 📫 discord: @krasi_sabyata#1193
 
 <!---
